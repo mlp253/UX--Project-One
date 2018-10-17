@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "42A1E2D2-0FC9-413C-93A3-6AEE8D5A9C07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5157ECDE-5659-4751-91DB-8784DE81BB95",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2AA7BDE1-63AA-4C42-AF31-A29C44041AC0",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 116
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / tittle copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE69BBB6-ABD3-4153-BD25-1DDBE958928C",
+      "overrideName": "AEC319BF-0C2D-4B48-9708-0C5E314953DF_stringValue",
+      "value": "NEW USER"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44D41C1A-F245-4A5D-A571-E88316583CC6",
+      "overrideName": "1F2CC941-72C5-4A3E-95F7-2F19992757B5_stringValue",
+      "value": "new user"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "36BB8FFC-CD96-48FD-B8FF-BF44627C3602",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EBEC956A-E794-4957-9637-C41F94D6A8AD",
+  "verticalSpacing": 0
+}

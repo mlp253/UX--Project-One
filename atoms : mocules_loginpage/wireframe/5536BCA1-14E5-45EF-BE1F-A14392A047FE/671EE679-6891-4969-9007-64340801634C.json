@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "671EE679-6891-4969-9007-64340801634C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7EE9BB76-86E4-4392-8C54-3299AAE6020F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "20B5EE0A-A15B-4D09-8228-D5671B96A50B",
+    "height": 61,
+    "width": 269,
+    "x": 98,
+    "y": 296
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / question text copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "258B2CD3-4805-4270-9700-F4EEDDA6808A",
+      "overrideName": "C230FD9E-4B06-4B8B-8E00-2EF86C6CFF56_stringValue",
+      "value": "answer"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E4AA1DEF-DCD5-4B58-9855-FB8616254F13",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BFF1DF0A-FDA0-4080-9965-0896AD1C39A0",
+  "verticalSpacing": 0
+}

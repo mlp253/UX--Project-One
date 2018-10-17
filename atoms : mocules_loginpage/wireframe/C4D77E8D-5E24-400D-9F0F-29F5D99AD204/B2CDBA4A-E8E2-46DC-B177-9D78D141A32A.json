@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B2CDBA4A-E8E2-46DC-B177-9D78D141A32A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "78BA3683-22F0-4FBF-87AA-88E698CFE919",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "03C75438-AD2C-4D19-A403-666A40AA9F28",
+    "height": 34,
+    "width": 92,
+    "x": 289,
+    "y": 413
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / loginin copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B6FD2D71-4BB4-4948-8E68-C14CDCD3FA5E",
+      "overrideName": "4A362F19-655B-472E-9764-1668BFA98E9F_stringValue",
+      "value": "next"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8CF92CEF-A94C-4EBE-BEB3-F525DA19C0DF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BC8FBDE2-C582-4550-9D8C-EDF1AB6E62ED",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

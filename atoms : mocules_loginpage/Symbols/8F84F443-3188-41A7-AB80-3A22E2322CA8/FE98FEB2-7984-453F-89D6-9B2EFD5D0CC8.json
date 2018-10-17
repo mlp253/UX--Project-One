@@ -1,0 +1,93 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FE98FEB2-7984-453F-89D6-9B2EFD5D0CC8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C80FBB0D-4B0D-4FEA-9513-CA03C1E2E22E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C71DFA37-FBD7-4DF7-921E-621197536CE9",
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE / BACKGROUND pic Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "234D43CB-5BBF-41B9-9B91-4016956BE62D",
+      "overrideName": "5B68F873-7FC0-40F5-BC6A-81C9D45D4835_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d61900b77cfe2949e6d285fba6456fb4fab9c2e2.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DAAE3DF9-A778-464E-B657-2FE6F40952E0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 22,
+        "color": {
+          "_class": "color",
+          "alpha": 0.05893342391304348,
+          "blue": 0.9952699829931972,
+          "green": 0.9952699829931972,
+          "red": 0.9952699829931972
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 16,
+        "offsetY": 14,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EC4395F5-741F-4BDF-9747-7C7CE2237AF8",
+  "verticalSpacing": 0
+}

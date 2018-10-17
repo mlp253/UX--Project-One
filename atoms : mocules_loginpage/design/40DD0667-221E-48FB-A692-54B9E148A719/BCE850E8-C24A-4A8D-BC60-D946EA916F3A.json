@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BCE850E8-C24A-4A8D-BC60-D946EA916F3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4B6EC3B6-F13D-41B8-B8B0-DA34065D3143",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B995D76E-5830-454F-B355-F037CC2C7D29",
+    "height": 274,
+    "width": 302,
+    "x": 65,
+    "y": 191
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOECULE / TEXT BOXES Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D14ABBDA-0F2A-482A-8C9E-284EFB0DEBFA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AB346C1A-A281-414A-B020-9606C727A2A7",
+  "verticalSpacing": 0
+}

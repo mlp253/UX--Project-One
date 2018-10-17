@@ -1,0 +1,134 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "28906F97-C545-4464-85DA-9CA967BD04DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "6379A59C-B45D-4CB1-81D9-B8288EDC7A54"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D2C1EF09-C35F-493C-8C04-E6F09110C876"
+    },
+    {
+      "class": "artboard",
+      "id": "DBC9EED3-89FE-4BE0-829B-60F45648238C"
+    },
+    {
+      "class": "artboard",
+      "id": "15EA2DBA-6D17-4440-A3D8-B5E48AEDB359"
+    },
+    {
+      "class": "artboard",
+      "id": "2FB856AC-9EDE-4380-8961-0DE5473CDD8E"
+    },
+    {
+      "class": "artboard",
+      "id": "C678E48C-8434-4E96-AA59-72D35F5C9EC9"
+    },
+    {
+      "class": "artboard",
+      "id": "663A318E-CC97-46C8-AC3D-C8012C5ABD6A"
+    },
+    {
+      "class": "artboard",
+      "id": "8544D2DC-7C0B-4900-8612-77FC907C16D0"
+    },
+    {
+      "class": "artboard",
+      "id": "CDE97717-292B-47BA-BA48-C827B2458F04"
+    },
+    {
+      "class": "artboard",
+      "id": "40DD0667-221E-48FB-A692-54B9E148A719"
+    },
+    {
+      "class": "artboard",
+      "id": "8B6D2491-EAC7-4908-AE97-82C1C895DE29"
+    },
+    {
+      "class": "artboard",
+      "id": "8DB2B1A0-3CF3-4B92-B584-BC17F2B3E1B6"
+    },
+    {
+      "class": "artboard",
+      "id": "087FA44B-D16D-4B27-8A3B-F706EE5D678E"
+    },
+    {
+      "class": "artboard",
+      "id": "569BE637-E630-4DA1-95F7-3FF559BF5263"
+    },
+    {
+      "class": "artboard",
+      "id": "7335A5B3-8C76-4C06-AECA-D78EEA12C07E"
+    },
+    {
+      "class": "artboard",
+      "id": "17230799-896C-42AF-AFC5-FC6140102DCB"
+    }
+  ],
+  "name": "design",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "lastUsedGestureID": 0
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

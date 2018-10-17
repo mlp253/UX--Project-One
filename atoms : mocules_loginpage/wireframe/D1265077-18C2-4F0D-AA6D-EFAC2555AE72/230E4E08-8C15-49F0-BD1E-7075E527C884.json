@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "230E4E08-8C15-49F0-BD1E-7075E527C884",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "144635AE-A755-4EE1-9CB3-120549514125",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9B6CB9E0-6AB5-4833-BB45-3E80B361E834",
+    "height": 61,
+    "width": 269,
+    "x": 93,
+    "y": 180
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / question text",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE001683-BEE5-4970-9203-44249DDDE6FF",
+      "overrideName": "C230FD9E-4B06-4B8B-8E00-2EF86C6CFF56_stringValue",
+      "value": "pick / security question 1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "683B0C4E-ACA3-49B3-8033-8EA0C1A41482",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BFF1DF0A-FDA0-4080-9965-0896AD1C39A0",
+  "verticalSpacing": 0
+}

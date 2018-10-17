@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "47A22601-E43E-46AE-97C8-53F6AB2720FD",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 871,
+  "clippingMaskMode": 0,
+  "do_objectID": "DDF6CDDB-D4EB-40E8-B687-57A8560E01C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "658E2750-1CCE-4ACB-948C-DAB39969874C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D7BF5A63-17EC-4FD9-BA43-C1B2AC4E0E6D",
+    "height": 667,
+    "width": 375,
+    "x": -292,
+    "y": 1785
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A4A5B94C-9E83-47CD-8662-4C1891FF767E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0B22288B-980C-4BF9-807C-15FB0B003A57"
+    }
+  ],
+  "name": "MOLECULE / BACKGROUNDORGINAL",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5040BA65-A012-4242-882F-CFB4276284EF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "37A7CD9A-3966-4767-B88A-5FAF4284B845",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "78FD8F31-0AC1-44D0-9B36-C58889DC0BDD",
+    "guides": [
+    ]
+  }
+}
